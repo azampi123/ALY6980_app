@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "healthy-booth-427815-g9",
+  "private_key_id": "ce12f0dca8d9cc0e959a4ef24c4cf426cf176841",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCynhhnxRZzOi3Y\nroOT6rseJImdInPuWgT4dORysV/aLw3Vylnr/vm44Xq5Lxa0OiyRTJCoSP3+zASb\nXuy97h3gHbWgAwRPnrWoiDHe7VHGhmgiQMtvyH/j/0VR7B08zQR1ZcHEmVJi3rZ5\nTtwnHua8W2Q55fTffFGXwDYycbZYo0dBRGvmUhWb1OlfpcIPjdJJ1zD+tM9A+CBc\n4RkrA7ouuQDmqi5sE5MXY3Ownm2MulNzMy6Dutoy8emLYBooHhh4gWvj0DBhWo9S\njKfkhEWfkE4c0LOimhFenfqvzm/hNrUXuFo3MEA09lN2PTog8VMXH8FBBAzMZail\nu+RNNCkvAgMBAAECggEASFOXK1HVtOP+k4qa8gbvLRX7eVrtmbru31Kp/L1RRG6g\nSg0tm0+8e/4lrR3hsioKSO25d8NSwl2Hkgh+kav9gfZVyMzf7oOkKHG5y/zKC7r6\nKMCXABUuoDqKLdGPx0J3RzhknYC+KRXoyrdBkz/Ci8vwCjfRD7vt6CZna8a64SnT\nb5k1AympLLlFiEqFitBfIyXhtSZI7QCR2RYLcHW11xc3gh1y5RNhco2L/9jKACa5\newSJ9sqPVpzwtSS8+IQZOsOU8FV3dixnOnm8FQnBKY4H9eshmPuLdtHbqo8Xvj3Y\nGio+OavUXMaSirUhK2Wj08owWjZpfgPhZMGWJjS7hQKBgQDV8w7WRPc8tUcldz55\nS0z8fAEiw0VgClf4Rx0GVBvvECXn0N052SEmu+/lVAJkd+7xkzcPX7rao9lsZapQ\nj3PrIhYLe5P4bNnxasH8KVC15wnEcWOOroHeGpO+MsPKukFp6F7GIznGMqhSos4h\nAGPk5K3xKEFOK6vSDEdiF8+Z+wKBgQDVuU0SvWzYRRUio1jKqU+PtfNflmioKPm8\nzp4VpE1WOOoYlcxxqbI0bRhmG2PZfpe/OBpJgYArEtzIPJLIgjYZuiO0S8ESCE72\nE+MhKb1wrLYU3hhKpaBujRFCXTWvl27vgxSF/WEYwmQU3n4HE++2xl4JJMI6ACIe\nyhWemJdbXQKBgEJcqfV8XtPNxsuwOQiWesK2FAQcXaB0lOTF6hLUc/WrJJbLClOv\nLcE9+iM/854GNW9pImL6ZpL6z633uuRSGrqMUBovsq4T1WY0nwcAKbDCgR0VrrPL\nHS0vQTR1upVfQHsBQKRkuL7pZ5x6M0W5QUL2S53Jxrfgg+MbO+kJSbORAoGAHh94\n6nxCXBUYjoJBYIcOjK3TeJSFebYUxPTGOTyoHc/1xrNOVnLZiCQcPT/9Ccma77uj\nkNqsyuVksuA+u/4GTAf9QksvEjCTmIFjEOiGJ9xf6X8II3VGsG43kYf7qh0I6L8r\n5Fq7FbdITdyyHKNFtRguZtGEgpJEPNy0wV62bo0CgYEAgDv0hXpUoE25LtIev5fa\n4cI3xJz67GkH02h4fmuaYfWmsvr49+W3sohNT+h6Q3Ir5zWJbcKOXHLgm4uwZIvK\nHooG16EXJnMvo42omEnLKvSQHAryPfvqbLImgazddBbSvWS/hs3xvggCUK5BQ0o/\n9y/N6vuYPKJe2R5z54sXB+o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "a-zampi@healthy-booth-427815-g9.iam.gserviceaccount.com",
+  "client_id": "105076281631082986996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/a-zampi%40healthy-booth-427815-g9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
